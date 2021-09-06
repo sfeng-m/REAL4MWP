@@ -4,6 +4,7 @@
 @describe: 论文中的memory module模块，调用检索模块进行question检索；
 """
 
+import os
 import pickle
 from process_studata import fetch_math23k, fetch_ape210k
 from config import arg_config
@@ -80,6 +81,9 @@ def process_unfold_data():
 
 
 if __name__ == '__main__':
+    for save_path in ['./preprocess/save_trained_model', './preprocess/sim_result']:
+        if not os.path.exists(save_path):
+            os.makedirs(save_path)
     
     if FiveFold:
         process_fivefold_data()
