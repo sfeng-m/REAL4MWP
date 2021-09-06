@@ -3,7 +3,8 @@ Code for EMNLP 2021 Paper "Recall and Learn: A Memory-augmented Solver for Math 
 
 # environment  
 python3.6, pytorch1.2\
-You can create virtual environment with required package by "conda env create -f REAL.yaml".
+You can install related packages directly through "```pip install requirements.txt```" or \
+create virtual environment with required package by "```conda env create -f REAL.yaml```".
 
 # preprocess data
     python3 memory_module.py
