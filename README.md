@@ -34,7 +34,6 @@ at the testing stage by modifying the value of topk, which can affect the modelâ
 <img width="500" height="300" src="https://github.com/sfeng-m/REAL4MWP/blob/master/images/topk_result.png" />
 
 In addition, It's simple to train topk retrieved questions by modifying the value of topk at training stage, which can obtain better result, though it is not show in our paper.
-For example, We train top3 retrieved questions and test top3 retrieved questions, the result is:
 
 
 
