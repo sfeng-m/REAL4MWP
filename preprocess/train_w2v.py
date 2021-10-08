@@ -1,7 +1,8 @@
 # -*- encoding: UTF-8 -*-
-# @Describe : 初始化学生点评画像表格
-# @Time ： 2019-09-04 14:55:45
-# @Author : wuzhidong
+"""
+@author: 'Stefan'
+@describe: word2vec相似题检索；
+"""
 
 import codecs
 import logging
