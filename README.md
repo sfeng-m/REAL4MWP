@@ -42,7 +42,8 @@ If the paper or the code helps you, please cite the paper in the following forma
     title = "Recall and Learn: A Memory-augmented Solver for Math Word Problems",
     author = "Huang, Shifeng and Wang, Jiawei and Xu, Jiao and Cao, Da and Yang, Ming",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
-    year = "2021",
+    year = "2021"
+    }
 ```
 
 
