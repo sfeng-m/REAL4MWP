@@ -35,6 +35,15 @@ at the testing stage by modifying the value of topk, which can affect the modelâ
 
 In addition, It's simple to train topk retrieved questions by modifying the value of topk at training stage, which can obtain better result, though it is not show in our paper.
 
+# Citation
+If the paper or the code helps you, please cite the paper in the following format :
+```
+@inproceedings{huang-etal-2021-recall-learn,
+    title = "Recall and Learn: A Memory-augmented Solver for Math Word Problems",
+    author = "Huang, Shifeng and Wang, Jiawei and Xu, Jiao and Cao, Da and Yang, Ming",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    year = "2021",
+```
 
 
 # Acknowledgments
