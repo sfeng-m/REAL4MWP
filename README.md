@@ -1,5 +1,5 @@
 
-Code for EMNLP 2021 Paper "[Recall and Learn: A Memory-augmented Solver for Math Word Problems](https://arxiv.org/abs/2109.13112)".
+Code for EMNLP 2021 Paper "[Recall and Learn: A Memory-augmented Solver for Math Word Problems](https://aclanthology.org/2021.findings-emnlp.68.pdf)".
 
 # environment  
 python3.6, pytorch1.2\
