@@ -35,6 +35,11 @@ at the testing stage by modifying the value of topk, which can affect the modelâ
 
 In addition, It's simple to train topk retrieved questions by modifying the value of topk at training stage, which can obtain better result, though it is not show in our paper.
 
+# Improve
+Further, we improve the effectiveness of REAL model to solve math work problems(MWP) by optimizing the memory module. \
+More details please see our NIPS2021 Paper on MATHAI4ED Workshop: ["REAL2: An End-to-end Memory-augmented Solver for Math Word Problems"](https://mathai4ed.github.io/papers/papers/paper_7.pdf). 
+
+
 # Citation
 If the paper or the code helps you, please cite the paper in the following format :
 ```
